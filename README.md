@@ -1,4 +1,4 @@
-# Skill Hub
+# Skill Hub 2.0
 
 ## Domain 
 
